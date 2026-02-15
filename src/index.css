@@ -1,0 +1,230 @@
+body {
+  margin: 0;
+  background: radial-gradient(circle at 20% 20%, #0a0f2c, #02030a);
+  color: white;
+  font-family: "Orbitron", sans-serif;
+  overflow-x: hidden;
+}
+
+/* glow text */
+.glow {
+  color: #00f7ff;
+  text-shadow:
+    0 0 10px #00f7ff,
+    0 0 30px #00f7ff;
+}
+
+.card {
+  border: 1px solid rgba(0, 255, 255, 0.3);
+  padding: 25px;
+  margin-top: 25px;
+  background: rgba(255, 255, 255, 0.03);
+  position: relative;
+  overflow: hidden;
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px) scale(1.01);
+  box-shadow: 0 0 25px rgba(0, 255, 255, 0.2);
+}
+
+/* slash effect */
+.card::before {
+  content: "";
+  position: absolute;
+  width: 200%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, cyan, transparent);
+  top: 0;
+  left: -100%;
+  transition: 0.5s;
+}
+
+.card:hover::before {
+  left: 100%;
+  top: 100%;
+}
+
+.cyber-btn {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background: transparent;
+  border: 1px solid cyan;
+  color: cyan;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.cyber-btn:hover {
+  background: cyan;
+  color: black;
+  box-shadow: 0 0 15px cyan;
+}
+
+.title {
+  font-size: 70px;
+  letter-spacing: 4px;
+}
+
+.sub {
+  opacity: 0.7;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.big {
+  font-size: 18px;
+  padding: 15px 40px;
+}
+
+.stars {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  overflow: hidden;
+  /* transform: rotate(90deg); */
+}
+
+.star {
+  position: absolute;
+  width: 2px;
+  height: 80px;
+  background: linear-gradient(white, transparent);
+  opacity: 0.7;
+  animation: fall 6s linear infinite;
+  transform: rotate(-140deg);
+}
+
+.star:nth-child(1) {
+  left: 20%;
+  animation-delay: 0s;
+}
+
+.star:nth-child(2) {
+  left: 60%;
+  animation-delay: 2s;
+}
+
+.star:nth-child(3) {
+  left: 80%;
+  animation-delay: 4s;
+}
+
+@keyframes fall {
+  from {
+    transform: translateY(-10px) translateX(10);
+  }
+  to {
+    transform: translateY(800px) translateX(-200px);
+  }
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.card {
+  border: 1px solid rgba(0, 255, 255, 0.3);
+  padding: 25px;
+  background: rgba(255, 255, 255, 0.03);
+  position: relative;
+  overflow: hidden;
+  transition: 0.35s;
+  backdrop-filter: blur(6px);
+}
+
+.card:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 0 0 30px rgba(0, 255, 255, 0.4);
+}
+
+.card::after {
+  content: "";
+  position: absolute;
+  width: 200%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, cyan, transparent);
+  top: 50%;
+  left: -100%;
+  transform: rotate(25deg);
+}
+
+.card:hover::after {
+  animation: slash 0.6s linear;
+}
+
+@keyframes slash {
+  from {
+    left: -100%;
+  }
+  to {
+    left: 100%;
+  }
+}
+link:hover {
+  color: #00f7ff;
+  text-shadow:
+    0 0 10px #00f7ff,
+    0 0 30px #00f7ff;
+}
+
+.read-wrap {
+  max-width: 900px;
+  margin: auto;
+  padding: 60px 20px;
+}
+
+.genre {
+  opacity: 0.6;
+  margin-bottom: 40px;
+}
+
+.read-box {
+  line-height: 1.9;
+  font-size: 18px;
+  background: rgba(255, 255, 255, 0.03);
+  padding: 40px;
+  border-radius: 14px;
+  border: 1px solid rgba(0, 255, 255, 0.2);
+  backdrop-filter: blur(6px);
+  white-space: pre-line;
+}
+
+.progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background: cyan;
+  z-index: 9999;
+  box-shadow: 0 0 10px cyan;
+}
+
+.read-wrap {
+  max-width: 900px;
+  margin: auto;
+  padding: 60px 20px;
+}
+
+.genre {
+  opacity: 0.6;
+  margin-bottom: 40px;
+}
+
+.read-box {
+  line-height: 1.9;
+  font-size: 18px;
+  background: rgba(255, 255, 255, 0.03);
+  padding: 40px;
+  border-radius: 14px;
+  border: 1px solid rgba(0, 255, 255, 0.2);
+  backdrop-filter: blur(6px);
+  white-space: pre-line;
+}
