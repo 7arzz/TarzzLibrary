@@ -475,6 +475,250 @@ menjadi rahasia kecil milik Tarzz
 yang suatu hari… mungkin akan mengubah segalanya.
 `,
   },
+
+  {
+    id: 3,
+    judul: "Notifikasi Terakhir Hari Ini",
+    penulis: "Tarzz",
+    genre: "Romance, Slice of Life",
+    isi: `
+Di SMA Arunika, semua terasa modern.
+Pintu kelas terbuka otomatis, tugas dikirim lewat cloud sekolah, bahkan papan tulis sudah diganti layar sentuh raksasa.
+
+Tapi di tengah kecanggihan itu, satu hal tetap sama:
+perasaan manusia tetap sulit dipahami.
+
+Termasuk bagi Raka
+
+Ia dikenal sebagai siswa paling pintar di kelas XI RPL. Jago coding, juara olimpiade, dan selalu duduk di bangku paling belakang dengan headset menempel di telinga. Banyak yang kagum, tapi sedikit yang benar-benar dekat.
+
+Baginya, hidup sederhana: sekolah, coding, pulang.
+Tanpa drama. Tanpa perasaan ribet.
+
+Sampai Nayla pindah ke kelasnya.
+
+
+
+Nayla bukan tipe yang mencolok.
+Ia tidak berisik, tidak sok populer. Tapi selalu tersenyum—senyum hangat yang anehnya bikin orang merasa nyaman.
+
+Hari pertama duduk di kelas, wali kelas langsung berkata,
+“Nayla, kamu duduk di sebelah Raka ya. Biar sekalian adaptasi sama pelajaran coding.”
+
+Raka yang sedang mengetik langsung berhenti.
+
+“…Hah?”
+
+Nayla hanya tersenyum dan duduk di kursi sebelahnya.
+“Halo.”
+
+Raka mengangguk kaku.
+“Iya.”
+
+Hening.
+
+Untuk pertama kalinya, Raka merasa keyboard laptopnya lebih menarik dari biasanya.
+
+
+
+Hari-hari berlalu.
+
+Awalnya mereka jarang bicara. Tapi Nayla mulai sering bertanya soal pelajaran coding.
+
+“Raka, ini error kenapa ya?”
+“Raka, kalau mau bikin tampilan web bagus gimana?”
+“Raka, kamu kok bisa cepat banget ngerti logic?”
+
+Pertanyaan sederhana. Tapi entah kenapa, Raka selalu menjawab dengan sabar.
+
+Ia bahkan mulai menunggu pertanyaan-pertanyaan itu.
+
+Suatu sore di lab komputer, Nayla masih duduk di sampingnya, mencoba menyelesaikan tugas web sederhana.
+
+“Tombolnya nggak mau diklik…” gumamnya pelan.
+
+Raka melirik layar laptop Nayla, lalu mendekat sedikit.
+“Ini kurang [ button ] tag penutup.”
+
+Jarak mereka jadi sangat dekat.
+Terlalu dekat.
+
+Nayla menoleh bersamaan.
+Mata mereka bertemu.
+
+Untuk sesaat, waktu seperti berhenti.
+Raka langsung mundur pelan.
+
+“Udah bisa,” katanya cepat.
+
+Nayla tersenyum kecil.
+“Makasih, guru privat.”
+
+Entah kenapa, jantung Raka berdetak lebih cepat dari biasanya.
+
+
+
+Sejak hari itu, mereka sering pulang bareng.
+Bukan sengaja. Hanya… waktunya selalu sama.
+
+Mereka berjalan keluar gerbang sekolah sambil ngobrol ringan—tentang tugas, guru, atau teknologi baru.
+
+Suatu hari, hujan turun tiba-tiba.
+Halte depan sekolah penuh. Hanya ada satu tempat kosong di bawah kanopi kecil.
+
+Raka dan Nayla berdiri di sana, berdekatan. Suara hujan deras menutup semua suara lain.
+
+“Raka,” kata Nayla pelan.
+“Kamu selalu pulang sendirian ya?”
+
+“Iya. Biasa.”
+
+Nayla menatap jalanan basah di depan mereka.
+“Aku dulu juga gitu di sekolah lama. Ngerasa sendirian walau ramai.”
+
+Raka diam.
+Ia tidak tahu harus menjawab apa.
+
+Lalu Nayla tersenyum kecil.
+“Tapi sekarang nggak terlalu. Soalnya… ada kamu.”
+
+Kalimat itu sederhana.
+Tapi cukup untuk membuat dunia Raka seakan berhenti beberapa detik.
+
+Untuk pertama kalinya, ia tidak tahu harus merespons dengan logika.
+
+
+
+Hari demi hari, perasaan itu tumbuh pelan.
+Tanpa disadari.
+
+Raka mulai memperhatikan hal kecil:
+cara Nayla mengikat rambut saat belajar,
+cara ia fokus mengetik,
+cara ia tersenyum setiap kali berhasil memahami kode baru.
+
+Dan Nayla pun mulai terbiasa mencari Raka—di kelas, di kantin, di lab komputer.
+
+Sampai suatu malam, notifikasi chat muncul di ponsel Raka.
+
+Nayla:
+“Kamu lagi ngoding?”
+
+Raka menatap layar beberapa detik sebelum membalas.
+“Iya. Kenapa?”
+
+“Gapapa. Cuma mau bilang… makasih ya.”
+
+“Untuk?”
+
+Balasan Nayla agak lama.
+
+“…Udah jadi orang yang bikin sekolah ini terasa nyaman.”
+
+Raka terdiam lama menatap chat itu.
+Lalu jari-jarinya mengetik pelan.
+
+“Kamu juga.”
+
+Beberapa detik kemudian, balasan masuk.
+
+“Hehe.”
+“Raka…”
+“Kalau suatu hari kita beda kelas atau beda jalan… kita masih temenan kan?”
+
+Entah kenapa, dada Raka terasa sesak.
+
+Ia mengetik, menghapus, mengetik lagi.
+Akhirnya ia berdiri dari kursinya, mengambil jaket, dan keluar rumah.
+
+
+
+Lima belas menit kemudian, ia sudah berdiri di depan rumah Nayla.
+
+Pesan masuk lagi:
+“Raka, kok online tapi nggak bales?”
+
+Raka menarik napas, lalu mengetik:
+“Keluar sebentar.”
+“Boleh ke depan?”
+
+Tak lama, pintu rumah Nayla terbuka.
+Ia keluar dengan wajah bingung.
+
+Melihat Raka berdiri di sana, matanya melebar.
+“Raka…?”
+
+Raka menggaruk tengkuknya, gugup.
+“Aku nggak mau jawab lewat chat.”
+
+Hening sejenak.
+Angin malam berhembus pelan.
+
+Raka menatap Nayla langsung.
+“Aku nggak tahu masa depan gimana. Bisa aja beda kelas, beda kampus, atau sibuk masing-masing.”
+
+Ia menarik napas.
+“Tapi selama aku masih bisa milih… aku nggak mau cuma jadi teman biasa.”
+
+Mata Nayla membesar pelan.
+
+“Aku… suka kamu,” lanjut Raka jujur.
+“Dan aku pengen tetap jalan bareng kamu. Selama kamu juga mau.”
+
+Sunyi beberapa detik.
+Lalu Nayla tersenyum—senyum paling tulus yang pernah Raka lihat.
+
+“Aku kira cuma aku yang ngerasa gitu,” katanya pelan.
+“Aku juga suka kamu, Raka.”
+
+Perasaan hangat langsung memenuhi dada Raka.
+Aneh, ringan, dan menenangkan.
+
+Nayla tertawa kecil.
+“Kita ini lucu ya. Anak coding tapi urusan perasaan lemot banget.”
+
+Raka ikut tertawa pelan.
+“Iya.”
+
+Malam itu, tidak ada kembang api.
+Tidak ada musik dramatis.
+
+Hanya dua siswa SMA, berdiri di bawah lampu jalan, dengan perasaan sederhana yang akhirnya tersampaikan.
+
+
+
+Sejak hari itu, semuanya berubah—tapi tetap sama.
+
+Mereka masih coding bareng.
+Masih belajar bareng.
+Masih pulang bareng.
+
+Bedanya, kini ada tangan yang saling menggenggam pelan saat jalan.
+Ada senyum yang lebih sering muncul.
+Ada perasaan yang membuat hari-hari terasa lebih hidup.
+
+Dan setiap malam, sebelum tidur, selalu ada satu notifikasi yang sama di ponsel Raka:
+
+Nayla:
+“Udah makan?”
+“Jangan begadang terus.”
+“Good night, my programmer."
+
+Raka selalu membalas satu kalimat sebelum tidur.
+
+“Good night. See you.”
+
+Karena kini ia tahu,
+di antara jutaan baris kode dan layar digital…
+ada satu notifikasi yang selalu ingin ia tunggu setiap hari.
+
+
+
+
+"Programmer emang susah klo soal perasaan yaaa"
+- Author
+`,
+  },
 ];
 
 export default cerpen;
