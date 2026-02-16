@@ -482,7 +482,7 @@ yang suatu hari… mungkin akan mengubah segalanya.
     penulis: "Tarzz",
     genre: "Romance, Slice of Life",
     isi: `
-Di SMA Arunika, semua terasa modern.
+Di SMK Arunika, semua terasa modern.
 Pintu kelas terbuka otomatis, tugas dikirim lewat cloud sekolah, bahkan papan tulis sudah diganti layar sentuh raksasa.
 
 Tapi di tengah kecanggihan itu, satu hal tetap sama:
@@ -683,7 +683,7 @@ Raka ikut tertawa pelan.
 Malam itu, tidak ada kembang api.
 Tidak ada musik dramatis.
 
-Hanya dua siswa SMA, berdiri di bawah lampu jalan, dengan perasaan sederhana yang akhirnya tersampaikan.
+Hanya dua siswa SMK, berdiri di bawah lampu jalan, dengan perasaan sederhana yang akhirnya tersampaikan.
 
 
 
