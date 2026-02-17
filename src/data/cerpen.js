@@ -719,6 +719,530 @@ ada satu notifikasi yang selalu ingin ia tunggu setiap hari.
 - Author
 `,
   },
+  {
+    id: 4,
+    judul: "Seorang Penyihir Kertas",
+    penulis: "Tarzz",
+    genre: "Fantasy, romance",
+    isi: `
+    Di balik tembok tinggi Kerajaan Arkhaviel, lahirlah seorang anak yang tidak pernah diinginkan.
+
+Namanya **Aren**.
+
+Ia bukan putra permaisuri. Ia bukan pangeran yang diumumkan di aula kerajaan. Ia hanyalah anak dari seorang wanita simpanan raja—lahir tanpa gelar, tanpa hak, tanpa tempat. Sejak kecil, ia hidup di sayap belakang istana, di lorong yang bahkan pelayan pun enggan lewati. Para bangsawan memanggilnya “bayangan tak sah”, para penyihir kerajaan mengabaikannya, dan rakyat hanya tahu ia ada… tapi tidak pernah benar-benar melihatnya.
+
+Namun dunia selalu punya cara untuk menyembunyikan sesuatu yang berbahaya.
+
+Dan Aren adalah sesuatu yang terlalu berbahaya untuk diabaikan.
+
+---
+
+Di kerajaan itu, setiap penyihir menggunakan tongkat sihir. Tongkat adalah simbol kekuasaan dan status. Semakin mahal tongkatnya, semakin tinggi derajat penyihirnya.
+
+Aren tidak punya tongkat.
+
+Ia hanya punya kertas.
+
+Kertas tipis yang ia gunting membentuk siluet manusia tanpa kaki—figur kecil sederhana dengan tangan terbuka. Ia menamainya **Shikigami**.
+
+Awalnya, itu hanya permainan anak kesepian. Namun ketika ia berusia delapan tahun, salah satu potongan kertas itu bergerak. Bukan karena angin. Bukan karena kebetulan. Melainkan karena sihirnya sendiri.
+
+Sejak saat itu, hidupnya berubah.
+
+Shikigami pertama yang hidup berjalan di telapak tangannya, lalu melompat turun dan berdiri di meja kayu usang. Aren menatapnya lama. Tanpa tongkat, tanpa mantra keras, tanpa ritual megah—ia menghidupkan sesuatu dari kertas kosong.
+
+Dan ia tahu… ia berbeda.
+
+---
+
+Tahun-tahun berlalu. Aren tumbuh dalam pengasingan, tetapi kekuatannya berkembang secara liar.
+
+Ia menemukan bahwa setiap shikigami dapat menyimpan **segel sihir**. Segel penyerang, segel pelindung, segel pengintai. Ia menuliskannya dengan tinta hitam tipis di tubuh kertas itu. Saat diaktifkan, segel akan dilepaskan—dan kertasnya hancur menjadi debu.
+
+Awalnya itu masalah. Ia kehabisan kertas.
+
+Lalu ia menciptakan mantra duplikasi.
+
+Sebuah lingkaran sihir kecil di lantai, satu shikigami di tengah, dan dengan satu sentuhan… kertas itu berlipat ganda menjadi puluhan, lalu ratusan. Setiap duplikat memiliki segel kosong siap diisi.
+
+Sejak saat itu, Aren tidak pernah kehabisan pasukan.
+
+---
+
+Meski diasingkan, ia selalu melindungi kerajaan.
+
+Ketika pencuri sihir menyusup ke pasar malam, bayangan kecil berbentuk tikus mengejarnya. Ketika monster hutan mendekati desa perbatasan, burung kertas hitam mengawasi dari langit. Ketika pedagang hampir dibunuh bandit, sosok bayangan muncul dari kegelapan dan menghabisi ancaman sebelum menghilang lagi.
+
+Tak ada yang tahu itu Aren.
+
+Mereka hanya menyebutnya:
+**Penyihir Bayangan Kerajaan**.
+
+---
+
+Aren memiliki dua kakak tiri.
+
+Yang pertama, **Pangeran Eldric**, putra permaisuri. Ia jarang berbicara pada Aren, namun sesekali diam-diam mengirim makanan atau buku sihir lama. Tidak hangat, tapi tidak kejam.
+
+Yang kedua, **Pangeran Vael**.
+
+Sombong. Ambisius. Dipuja sebagai jenius sihir kerajaan karena tongkat emasnya dan mantra-mantra megahnya. Ia membenci Aren—bukan karena statusnya, tapi karena satu hal sederhana:
+
+Vael selalu kalah saat mereka berlatih diam-diam.
+
+Tak peduli seberapa kuat tongkat Vael, shikigami Aren selalu lebih cepat, lebih presisi, lebih mematikan. Itu membuat Vael marah… dan takut.
+
+Namun Aren tidak pernah membanggakan diri. Ia tidak ingin tahta. Ia tidak ingin pengakuan. Ia hanya ingin hidup tenang… meski dunia terus memaksanya bersinar.
+
+---
+
+Di usia tujuh belas, Aren menciptakan jutsu terbesarnya.
+
+**Teleportasi segel.**
+
+Ia dapat berpindah ke lokasi mana pun—selama ada tanda segel miliknya di sana. Awalnya ia menempelkan segel secara langsung. Lalu ia menemukan cara yang lebih efisien: shikigami pengintai.
+
+Burung kertas terbang membawa segel.
+Tikus kertas menyusup ke istana musuh.
+Lalat kertas masuk ruang rahasia.
+
+Begitu segel ditempel, Aren bisa muncul dalam sekejap.
+
+Ia menjadi mata-mata paling mematikan yang tak pernah diakui kerajaan.
+
+---
+
+Namun kemampuan paling gelapnya lahir dari pertempuran.
+
+Setiap musuh yang ia bunuh—penyihir jahat, ksatria korup dengan pedang api, bahkan bangsawan pemberontak yang mengendalikan mayat hidup—tidak benar-benar lenyap.
+
+Dengan shikigami khusus, Aren dapat memanggil **bayangan mereka**.
+
+Bukan tubuh asli. Bukan jiwa utuh.
+Hanya bayangan kehendak dan kekuatan mereka.
+
+Mereka berdiri di belakangnya seperti pasukan hening, menunggu perintah. Tidak berbicara. Tidak memberontak. Hanya taat.
+
+Aren jarang menggunakannya.
+
+Ia takut suatu hari ia akan menjadi monster yang sama seperti yang ia bunuh.
+
+---
+
+Suatu malam, kerajaan diserang dari dalam.
+
+Kelompok penyihir elit berkhianat, membuka gerbang bagi pasukan luar. Api menyala di menara, rakyat panik, dan penjaga kerajaan kewalahan. Vael mencoba memimpin, tapi disergap. Eldric terluka melindungi raja.
+
+Istana hampir jatuh.
+
+Lalu bayangan bergerak.
+
+Ratusan shikigami beterbangan di langit malam seperti hujan kertas hitam. Segel-segel menyala di udara. Sosok-sosok bayangan muncul di belakang Aren—para penyihir hebat yang pernah ia kalahkan.
+
+Dalam satu malam, ia membersihkan seluruh ancaman.
+
+Tanpa sorakan. Tanpa pengakuan.
+Ia menghilang sebelum fajar.
+
+Namun rakyat melihat.
+
+Dan sejak hari itu, mereka tahu siapa yang sebenarnya melindungi mereka.
+
+---
+
+Di luar istana, di sebuah taman kecil dekat perpustakaan tua, Aren duduk sendirian saat matahari terbit.
+
+Seseorang datang mendekat.
+
+Seorang gadis berjubah penyihir sederhana. Bukan bangsawan. Bukan elit. Hanya penyihir perpustakaan kerajaan yang sering ia lihat dari jauh.
+
+Namanya **Lyra**.
+
+Ia duduk di samping Aren tanpa takut. Tanpa formalitas.
+
+“Aku tahu itu kamu,” katanya pelan.
+Aren terdiam.
+“Semua orang mungkin tidak melihat. Tapi aku melihat shikigami-mu sejak dulu.”
+
+Aren menatap ke depan. “Kalau begitu, kau seharusnya menjauh.”
+
+Lyra tersenyum kecil. “Kalau aku menjauh, siapa yang akan duduk di samping pahlawan paling kesepian di kerajaan?”
+
+Sunyi.
+
+Untuk pertama kalinya, Aren tidak tahu harus menjawab apa.
+
+Lyra lalu mengeluarkan selembar kertas. Ia melipatnya perlahan—tidak sempurna, tidak rapi—membentuk siluet kecil seperti shikigami.
+
+“Aku tidak sehebat kamu,” katanya. “Tapi… kalau kamu mau, kita bisa membuat lebih banyak kertas bersama.”
+
+Aren menatap kertas itu lama.
+Lalu, untuk pertama kalinya dalam hidupnya…
+
+Ia tersenyum.
+
+Di dunia yang selalu menolaknya, akhirnya ada satu orang yang memilih untuk tetap di sampingnya—bukan karena kekuatannya, tapi karena dirinya.
+
+Dan di antara ribuan shikigami yang ia ciptakan,
+perasaan kecil di dadanya itu…
+adalah yang paling sulit ia kendalikan.
+
+---   
+
+Tahun-tahun berlalu.
+
+Kerajaan Arkhaviel tetap berdiri megah, namun bagi **Aren**, tempat itu sudah tidak lagi memiliki arti.
+
+Ibunya telah tiada—satu-satunya orang yang benar-benar memanggilnya anak dengan tulus. Setelah kepergiannya, istana menjadi semakin dingin. Eldric sibuk dengan urusan kerajaan. Vael tenggelam dalam ambisinya sendiri. Tak ada lagi alasan bagi Aren untuk tinggal.
+
+Maka suatu pagi, tanpa pengumuman, tanpa perpisahan, ia pergi.
+
+Bersama satu orang yang memilih berjalan di sampingnya.
+
+**Lyra.**
+
+Gadis yatim piatu yang sejak kecil hidup di perpustakaan kerajaan, yang tidak pernah memiliki keluarga, tidak pernah punya rumah tetap. Mereka berdua sama-sama tidak memiliki tempat untuk pulang.
+
+Jadi mereka menciptakan tempat itu sendiri.
+
+---
+
+Perjalanan mereka dimulai tanpa tujuan pasti. Hanya peta dunia tua, tas berisi kertas-kertas shikigami, dan pedang tipis milik Lyra yang selalu ia bawa di punggung.
+
+Lyra bukan penyihir biasa.
+
+Ia menguasai banyak jutsu penyembuhan tingkat tinggi—jenis sihir yang biasanya hanya dikuasai pendeta kerajaan atau penyihir suci. Namun di balik kemampuan lembut itu, ia juga seorang pendekar pedang yang mengerikan. Gerakannya cepat, presisi, dan mematikan, seolah pedangnya adalah perpanjangan dari napasnya sendiri.
+
+Aren sering memperhatikannya saat latihan.
+
+Bukan dengan tatapan kagum berlebihan.
+Tapi dengan ketenangan… yang perlahan berubah menjadi rasa nyaman.
+
+Mereka saling melengkapi tanpa pernah membahasnya.
+
+Aren menyerang dari bayangan.
+Lyra melindungi dari garis depan.
+Aren menghancurkan.
+Lyra menyembuhkan.
+
+Dua sisi yang berbeda… namun selalu bergerak dalam ritme yang sama.
+
+---
+
+Beberapa tahun kemudian, mereka membangun sebuah rumah.
+
+Terletak di tepi hutan luas dan dekat danau tenang. Rumah kayu besar dua lantai dengan halaman luas, ruang latihan, dan ruang kerja penuh kertas segel. Rumah itu cukup besar untuk keluarga bangsawan kecil… tapi hampir selalu kosong.
+
+Karena mereka jarang berada di sana.
+
+Dunia luar memanggil mereka. Konflik antar kerajaan, monster kuno, penyihir gelap, kontrak perburuan. Mereka berkelana dari satu wilayah ke wilayah lain, bukan demi nama, bukan demi kekuasaan—hanya untuk hidup… dan menjaga dunia tetap seimbang.
+
+Di antara perjalanan itu, mereka menikah.
+
+Tidak ada pesta megah.
+Tidak ada bangsawan.
+Hanya danau senja, dua cincin sederhana, dan janji pelan di bawah langit jingga.
+
+“Aku tidak punya apa-apa untuk diberikan,” kata Aren saat itu.
+Lyra menggeleng. “Kamu ada. Itu cukup.”
+
+Dan sejak saat itu, mereka bukan lagi dua orang yang berjalan berdampingan.
+Mereka adalah satu rumah… ke mana pun mereka pergi.
+
+---
+
+Namun dunia yang luas selalu menyimpan ancaman.
+
+Suatu hari, di benua utara yang dingin dan tandus, mereka menghadapi musuh terberat dalam hidup mereka.
+
+Seorang penyihir kuno yang disebut **Raja Bayangan Nocthar**. Mantan raja yang mengorbankan seluruh kerajaannya demi keabadian, kini hidup sebagai entitas sihir murni. Ia menguasai bayangan lebih dalam dari siapa pun—bahkan lebih dalam dari shikigami Aren.
+
+Pertempuran dimulai di reruntuhan kota mati.
+
+Langit gelap. Tanah retak. Bayangan bergerak sendiri.
+
+Shikigami Aren berhamburan seperti badai hitam, namun bayangan Nocthar menelannya satu per satu. Segel teleportasi menyala di mana-mana, membuat Aren muncul dan menghilang secepat kilat. Ia memanggil pasukan bayangan dari musuh-musuh lama—penyihir api, ksatria api, necromancer—namun semuanya dihancurkan berkali-kali.
+
+Lyra berdiri di garis depan.
+
+Pedangnya berkilat, menebas bayangan yang mencoba meraih Aren dari belakang. Setiap luka yang ia terima langsung ia sembuhkan sendiri dengan jutsu penyembuhan. Darah, cahaya sihir, dan serpihan bayangan bercampur di udara.
+
+Pertarungan berlangsung berjam-jam.
+
+Mereka hampir kalah.
+
+Pada satu titik, Aren terkena serangan langsung Nocthar. Tubuhnya terpental dan menabrak reruntuhan batu. Bayangan mulai merayapi tubuhnya, mencoba menelan jiwanya.
+
+“Aren!”
+
+Suara Lyra pecah untuk pertama kalinya.
+
+Ia berlari tanpa ragu, menembus badai bayangan. Pedangnya berputar cepat, memotong jalan. Ia berdiri di depan Aren, tubuhnya penuh luka, napasnya berat.
+
+“Aku masih di sini,” bisiknya.
+
+Tangannya menyentuh dada Aren. Cahaya penyembuhan menyala terang—lebih terang dari biasanya. Bukan sekadar jutsu… tapi sesuatu yang lebih dalam.
+
+Aren membuka mata.
+
+Melihat Lyra berdiri di depannya, melindunginya tanpa ragu.
+
+Dan untuk pertama kalinya dalam hidupnya…
+ia benar-benar takut kehilangan seseorang.
+
+“Lyra,” suaranya pelan namun tegas. “Mundur.”
+
+Ia bangkit.
+
+Ratusan segel menyala di udara. Shikigami muncul dalam jumlah yang belum pernah ia gunakan sebelumnya. Bayangan para musuh kuat yang pernah ia kalahkan berdiri di belakangnya—pasukan gelap yang menunggu perintah terakhir.
+
+Lyra berdiri di sampingnya, mengangkat pedang.
+
+“Bersama?” tanya Lyra.
+Aren menoleh. Sedikit tersenyum.
+“Selalu.”
+
+Serangan terakhir mereka terjadi dalam satu ritme.
+
+Teleportasi beruntun.
+Segel penghancur berlapis.
+Pedang Lyra menembus inti bayangan.
+Dan akhirnya… Aren menanamkan segel pemusnah tepat di jantung sihir Nocthar.
+
+Ledakan cahaya dan kegelapan bertabrakan.
+
+Lalu… sunyi.
+
+---
+
+Mereka menang.
+
+Namun tubuh mereka hampir runtuh. Luka di mana-mana. Sihir hampir habis.
+
+Di tengah reruntuhan kota mati, mereka duduk bersandar pada dinding batu retak. Napas pelan. Dunia terasa hening.
+
+Lyra tertawa kecil lelah.
+“Kita hampir mati lagi.”
+
+Aren menoleh. Untuk pertama kalinya, ia tidak menyembunyikan ekspresinya. Tangannya yang sedikit gemetar meraih tangan Lyra.
+
+“Jangan biasakan,” katanya pelan.
+
+Lyra menatapnya. Lalu tersenyum hangat—senyum yang hanya ia tunjukkan saat mereka berdua saja.
+
+“Aren…”
+“Ya?”
+“Aku capek kalau harus hidup tanpa kamu.”
+
+Sunyi sejenak.
+
+Aren menariknya pelan ke dalam pelukan. Tidak dramatis. Tidak berlebihan. Hanya pelukan tenang seseorang yang akhirnya mengakui betapa berharganya orang di hadapannya.
+
+“Aku juga,” jawabnya jujur.
+
+Di dunia yang luas dan penuh bahaya, mereka mungkin terus bertarung, terus mengembara, terus menghadapi musuh yang tak ada habisnya.
+
+Namun selama mereka berdiri bersama—
+rumah mereka tidak pernah benar-benar hilang.
+
+---
+
+Langit di atas kota mati masih berdenyut oleh sisa-sisa sihir.
+
+Nocthar belum benar-benar musnah.
+
+Kabut hitam perlahan berkumpul kembali di tengah reruntuhan, berputar seperti pusaran hidup. Dari serpihan bayangan itu, sosok tinggi perlahan terbentuk—retak, namun masih utuh. Mata kosongnya menyala ungu, menatap dua manusia yang hampir kehabisan tenaga.
+
+“Aku… adalah bayangan yang tidak akan lenyap,” suara Nocthar bergema seperti dari dalam tanah.
+
+Aren menghembuskan napas pelan. Tubuhnya lelah. Sihirnya hampir terkuras. Lyra di sampingnya berdiri dengan kaki sedikit gemetar, namun pedangnya masih terangkat.
+
+Mereka tahu.
+
+Ini belum selesai.
+
+---
+
+Nocthar mengangkat tangan.
+
+Seluruh bayangan di kota mati bangkit. Dari dinding retak, dari jalanan kosong, dari reruntuhan bangunan—ribuan bayangan merangkak keluar seperti lautan gelap.
+
+Tanah berguncang.
+
+“Aren…” Lyra berbisik pelan.
+“Aku tahu,” jawabnya.
+
+Aren menatap langit yang hampir hitam total. Dalam benaknya, ia menghitung. Sisa kertas. Sisa segel. Sisa sihir. Semua hampir nol.
+
+Pertarungan panjang ini sudah mengikis segalanya.
+
+Kecuali satu hal.
+
+Ia merogoh dalam tas kecilnya… dan mengeluarkan setumpuk kertas putih polos. Belum diberi segel. Belum digunakan.
+
+Kertas terakhir.
+
+Ia memandang Lyra.
+“Percaya padaku?”
+
+Lyra bahkan tidak ragu.
+“Selalu.”
+
+---
+
+Aren menempelkan satu shikigami kecil di telapak tangannya. Ia menulis segel dengan kecepatan yang belum pernah ia gunakan sebelumnya—garis demi garis bercahaya. Namun ini bukan segel biasa.
+
+Ini segel gabungan.
+Segel teleportasi.
+Segel pengikat jiwa.
+Segel pemusnah.
+
+Satu jutsu terakhir.
+
+Nocthar menyerang.
+
+Lautan bayangan melesat seperti badai. Lyra maju tanpa diperintah. Pedangnya menari, memotong bayangan yang mendekat. Cahaya penyembuhan mengalir di tubuhnya setiap kali luka muncul. Ia berdiri seperti benteng hidup, menjaga ruang kecil di mana Aren bekerja.
+
+“Aren! Cepat!”
+
+“Aku hampir selesai!”
+
+Bayangan mulai menembus pertahanan. Salah satu menghantam bahu Lyra. Ia terhuyung, darah mengalir. Namun ia tetap berdiri. Tetap melawan.
+
+Aren menyelesaikan segelnya.
+
+Ia mengangkat kepala.
+
+Ratusan shikigami terakhir melayang di sekelilingnya, masing-masing memegang segel duplikat dari mantra utama. Mereka menyebar ke udara seperti bintang hitam.
+
+Nocthar tertawa dingin.
+“Kau pikir kertas bisa mengikat bayangan abadi?”
+
+Aren menatapnya lurus.
+
+“Bukan kertasnya.”
+
+Ia menjentikkan jari.
+
+Seluruh shikigami menempel ke setiap bayangan di kota mati—di dinding, tanah, udara, bahkan tubuh Nocthar sendiri. Dalam sekejap, segel teleportasi aktif bersamaan.
+
+Lingkaran sihir raksasa muncul… mengurung seluruh area.
+
+Nocthar tersadar terlambat.
+
+Aren berdiri di tengah lingkaran, tepat di depan inti bayangan Nocthar. Ia mengangkat satu shikigami terakhir—yang berisi segel asli.
+
+“Lyra!”
+
+Lyra langsung bergerak. Dengan sisa tenaga, ia melesat dan menebas jalur menuju inti bayangan. Tebasan terakhirnya membuka celah sepersekian detik.
+
+Itu cukup.
+
+Aren menempelkan shikigami itu ke inti Nocthar.
+
+“Segel Akhir: Pemusnahan Dimensi.”
+
+Cahaya putih dan hitam meledak bersamaan.
+
+Teleportasi massal aktif—memindahkan seluruh entitas bayangan Nocthar ke dalam ruang segel kosong yang Aren ciptakan hanya untuk satu tujuan: mengurung dan memusnahkan dari dalam.
+
+Nocthar berteriak.
+Bayangannya runtuh.
+Tubuhnya retak seperti kaca.
+
+“Mustahil… aku… abadi—”
+
+Segel menyala terang.
+
+Dalam satu kilatan terakhir, seluruh keberadaan Nocthar tersedot… lalu hancur tanpa sisa.
+
+Sunyi.
+
+Angin dingin berhembus pelan melewati kota mati yang kini benar-benar kosong.
+
+Nocthar… telah lenyap.
+
+---
+
+Aren jatuh berlutut.
+
+Sihirnya habis total. Tubuhnya gemetar. Dunia berputar.
+
+Seseorang langsung menangkapnya sebelum jatuh ke tanah.
+
+Lyra.
+
+Ia berlutut di depannya, napasnya juga berat, wajahnya penuh luka dan debu. Namun matanya… hangat seperti biasa.
+
+“Kita menang,” bisiknya.
+
+Aren menatapnya beberapa detik, seolah memastikan ia benar-benar ada. Lalu ia tertawa pelan—lelah, tapi tulus.
+
+“Iya… kita menang.”
+
+Lyra memeluknya.
+
+Bukan pelukan singkat. Bukan formalitas. Tapi pelukan erat dua orang yang baru saja selamat dari sesuatu yang seharusnya mustahil.
+
+“Aku kira… aku bakal kehilangan kamu,” suara Lyra sedikit bergetar.
+
+Aren terdiam. Tangannya perlahan membalas pelukan itu. Untuk seseorang yang selalu hidup sebagai bayangan… ia akhirnya punya sesuatu yang benar-benar takut ia hilangkan.
+
+“Aku di sini,” katanya pelan.
+“Selama kamu di sini… aku juga.”
+
+Lyra tersenyum kecil di bahunya.
+“Kalau gitu… jangan mati dulu.”
+“Tidak ada rencana.”
+
+---
+
+Beberapa bulan kemudian.
+
+Di tepi danau dekat rumah mereka, musim semi datang perlahan. Rumah besar itu akhirnya lebih sering terisi. Tidak ada perang besar. Tidak ada musuh legendaris. Hanya hari-hari tenang yang jarang mereka miliki.
+
+Aren duduk di teras, memotong kertas-kertas baru. Shikigami kecil berbentuk burung beterbangan santai di langit halaman.
+
+Lyra keluar membawa dua cangkir teh. Ia duduk di sampingnya, bersandar ringan.
+
+“Dunia akhirnya tenang,” katanya.
+
+Aren melihat danau yang memantulkan langit senja.
+“Untuk sementara.”
+
+Lyra tersenyum.
+“Tidak apa-apa. Selama kita bareng.”
+
+Sunyi yang nyaman.
+
+Tidak ada lagi kerajaan yang mengucilkannya. Tidak ada lagi masa lalu yang mengejar. Hanya rumah, perjalanan sesekali, dan seseorang yang selalu duduk di sampingnya.
+
+Aren mengambil satu kertas kecil. Ia melipatnya perlahan… membentuk dua figur kertas berdampingan.
+
+Ia menaruhnya di tangan Lyra.
+
+“Ini apa?” tanya Lyra.
+“Shikigami paling kuat yang pernah kubuat.”
+Lyra tertawa kecil. “Kelihatan biasa.”
+Aren menatapnya hangat.
+“Karena yang membuatnya kuat… bukan segelnya.”
+
+Lyra memahami.
+
+Ia menggenggam kertas itu pelan.
+
+Di dunia yang dulu menolaknya, Aren akhirnya menemukan sesuatu yang lebih dari kekuatan, lebih dari pengakuan, lebih dari kemenangan.
+
+Sebuah rumah.
+Sebuah pasangan.
+Dan kehidupan yang ia pilih sendiri.
+
+Di bawah langit senja yang tenang,
+dua penyihir yang pernah hidup sebagai bayangan…
+akhirnya hidup dalam cahaya yang sama.
+
+    `,
+  },
 ];
 
 export default cerpen;
